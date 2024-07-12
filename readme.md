@@ -19,7 +19,7 @@ To run the website locally or contribute to the project, follow these steps:
 ### Clone the Repository
 
 ```bash
-- git clone [https://github.com/your-username/property-details-website.git ](https://github.com/w3-software-intern-Riad/property-details-website.git)
+- git clone https://github.com/w3-software-intern-Riad/property-details-website.git
 - cd property-details-website 
 ```
 
@@ -33,7 +33,7 @@ Contributions are welcome! Here's how you can contribute:
 
 ### Fork the Repository
 ```bash
-- git clone [https://github.com/your-username/property-details-website.git](https://github.com/w3-software-intern-Riad/property-details-website.git)
+- git clone https://github.com/w3-software-intern-Riad/property-details-website.git
 - cd property-details-website
 ```
 ### Create a New Branch
